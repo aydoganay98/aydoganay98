@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aydoganay98
-- 👀 I’m interested in Mobile and Web Development
+- 👀 I’m interested in Mobile and Web Development, rarely Embedded Systems.
 - 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on mobile development 
 - 📫 How to reach me: ayberkkaydogann@gmail.com
