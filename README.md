@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aydoganay98
-- 👀 I’m interested in Mobile and Web Development, rarely Embedded Systems.
-- 🌱 I’m currently learning React Native
+- 👀 I’m interested in Mobile and Data Science, rarely Embedded Systems.
+- 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on mobile development 
 - 📫 How to reach me: ayberkkaydogann@gmail.com
 
