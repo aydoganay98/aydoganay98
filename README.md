@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @aydoganay98
 - 👀 I’m interested in Mobile Development and Data Science, rarely Embedded Systems.
-- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on mobile development 
 - 📫 How to reach me: ayberkkaydogann@gmail.com
 
